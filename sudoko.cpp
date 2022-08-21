@@ -65,3 +65,4 @@ int main(){
     printSudoko(arr);
 }
 //hope code is clear
+			//thank you naveen reddy
