@@ -64,3 +64,4 @@ int main(){
     solveSudoko(arr,0,0);
     printSudoko(arr);
 }
+//hope code is clear
