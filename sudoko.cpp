@@ -56,13 +56,8 @@ int main(){
 					{ 0, 1, 0, 7, 8, 0, 0, 4, 3 },
 					{ 0, 0, 0, 8, 5, 0, 0, 1, 6 },
 					{ 5, 0, 1, 0, 0, 0, 0, 9, 0 },
-					{ 6, 7, 0, 0, 0, 9, 0, 0, 0 } };;
-    // for(int i=0;i<N;i++){
-    //     for(int j=0;j<N;j++)
-    //         cin>>arr[i][j];
-    // }
+					{ 6, 7, 0, 0, 0, 9, 0, 0, 0 } };
     solveSudoko(arr,0,0);
     printSudoko(arr);
 }
-//hope code is clear
 			//thank you naveen reddy
