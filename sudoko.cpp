@@ -60,5 +60,10 @@ int main(){
     solveSudoko(arr,0,0);
     printSudoko(arr);
 }
+
 			//thank you naveen reddy
 //find something new
+
+//final task need to done
+//done my changes
+
